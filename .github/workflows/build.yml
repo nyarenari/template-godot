@@ -5,7 +5,7 @@ on:
       - "master"
 
 env:
-  GODOT_VERSION: mono-3.4.4
+  GODOT_VERSION: 3.4.4
   EXPORT_NAME: GodotTemplate
 
 jobs:
