@@ -1,2 +1,1 @@
-# template-godot
-Godot Game Template
+# Godot Game Template
